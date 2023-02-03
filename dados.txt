@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome: Thiago
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Thiago.
+-Profissão: Analista de Qualidade Junior.
+-Cidade: Belo Horizonte.
+-O que faz nas horas vaga: Jogo futebol e assisto filmes
+-Feedback sobre o curso Qualidade de Software: Até o momento muito bom.
+-Feedback sobre a plataforma de estudo da EBAC: Plataforma de fácil utilização.
 
 Obrigado!!!
 
